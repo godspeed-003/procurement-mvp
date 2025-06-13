@@ -1,0 +1,73 @@
+{
+  "email_sent": 0,
+  "email_failed": 4,
+  "sms_sent": 0,
+  "sms_failed": 0,
+  "total_suppliers": 10,
+  "suppliers_with_email": 4,
+  "suppliers_with_phone": 10,
+  "start_time": "2025-06-13T22:08:09.158129",
+  "end_time": "2025-06-13T22:08:20.551684",
+  "details": [
+    {
+      "supplier": "testing",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:09.159131"
+    },
+    {
+      "supplier": "Elikem Pharmaceuticals Private Limited](https://www.neuropsychiatricmanufacturer.com/?po",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:10.293325"
+    },
+    {
+      "supplier": "SKS Finechem Pvt. Ltd.,Navapur Road,Boisar, Palghar - 401506, Dist",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:11.413576"
+    },
+    {
+      "supplier": "s-benagluru",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:13.075946"
+    },
+    {
+      "supplier": "Oriel Healthcare Private Limited](https://www.cuberlifesciences.com/?pos=2&kwd=hcl",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:14.533955"
+    },
+    {
+      "supplier": "Jabs Biotech Pvt Ltd., Sangatpura Mohalla, Nabha - 147201, Dist.Patial",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:16.526055"
+    },
+    {
+      "supplier": "Elisa Biotech Pvt. Ltd.](https://www.elisabiotechindia.com/?pos=8&k",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:16.526055"
+    },
+    {
+      "supplier": "Brotkin Lifesciences Private Limited](https://www.brotkinlife.com/?pos=10&kwd=hcl 10&t",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:16.526055"
+    },
+    {
+      "supplier": "SKS Finechem Pvt. Ltd.,Navapur Road,Boisar, Palghar - 401506, Dist",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:17.530942"
+    },
+    {
+      "supplier": "Cochin Petromins Private Limited](https://www.cochinpetromins.co.in/?pos=7&kwd=hcl",
+      "email_sent": false,
+      "sms_sent": false,
+      "timestamp": "2025-06-13T22:08:17.530942"
+    }
+  ]
+}
